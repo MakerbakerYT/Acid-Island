@@ -1,4 +1,4 @@
 name: Acid-Island
-version: 0.0.0
-api: [3.0.0-Alpha5]
+version: 1.0.0
+api: [3.1.0]
 main: Acid-Island\Acid-Island
